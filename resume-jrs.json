@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Thiyagarajan Angappan",
+    "label": "Technical Architect",
+    "summary": "**Full stack engineer** aimed at achieving the best solutions in the world of business problems. With over 13 years of experience in design and development of Web Applications, a **curious mind** towards researching and learning emerging technologies, I invest in **self growth** and guide others to reach their best",
+    "website": "https://thiyagarajan-angappan.github.io/",
+    "phone": "1-210-862-6727",
+    "email": "thiyagarajan.angappan@gmail.com",
+    "picture": "image/profilepic-edited.jpeg",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Antonio",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "thiyagarajan-angappan",
+        "url": "https://github.com/thiyagarajan-angappan"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "thiyagarajan-angappan",
+        "url": "https://www.linkedin.com/in/thiyagarajan-angappan/"
+      },
+      {
+        "network": "Twitter",
+        "username": "UndefObject",
+        "url": "https://twitter.com/UndefObject"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "HCL America Inc",
+      "website": "https://www.hcltech.com/geo-presence/united-states",
+      "position": "Technical Architect",
+      "startDate": "2018-07",
+      "summary": "Leading a team of 3 senior programmers, planned, designed and implemented  software applications. Understand problem statements and business needs of the customer and design the best solutions",
+      "highlights": [
+        "Created a web portal aimed at maintainig and monitoring vendor services.",
+        "Successfully prototyped the **implementation of ELK stack** for vendor services",
+        "Designed enhanced SOAP UI portal for statistics and validation",
+        "Averted missing deadline by **fixing a major bug** in dozer mapping during websphere migration effort"
+      ]
+    },
+    {
+      "company": "Openlink Financial LLC",
+      "website": "https://openlink.com/",
+      "position": "Senior Consultant",
+      "startDate": "2015-08",
+      "endDate": "2018-06",
+      "summary": "Engaged and discussed with traders to understand their day to day activities, identified potential tasks to automate, reduced manual intervention and increased productivity",
+      "highlights": [
+        "Designed and programmed master data compatible with various ways of report generation",
+        "Improved Quarterly report time taken to complete by 70 to 80 percent",
+        "Handled **bundling, delivery and installation** of completed software in customer systems"
+      ]
+    },
+    {
+      "company": "TATA Consultancy Service Ltd",
+      "website": "https://www.tcs.com/",
+      "position": "Assistant consultant",
+      "startDate": "2006-11",
+      "endDate": "2015-08",
+      "summary": "Worked with a team of 2 senior programmers onsite, 2 in mexico and 10 in India, translated business needs to technical tasks and helped replace  mainframe screens to web based applications",
+      "highlights": [
+        "Mentored / trained team members in technologies used and processes followed in project delivery",
+        "Improved time to market by 30% in the implementation of UX changes",
+        "Pioneered the design and implementation of esign integration for insurance products"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bachelor of Engineering, Anna University",
+      "gpa": "3.72",
+      "startDate": "2001-06",
+      "endDate": "2005-04"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "advanced",
+      "keywords": [
+        "JavaScript",
+        "ReactJS",
+        "SpringMVC",
+        "HTML5/CSS3"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "intermediate",
+      "keywords": [
+        "Java",
+        "RESTful Services",
+        "NodeJS",
+        "JPA",
+        "Hibernate",
+        "MSSQL"
+      ]
+    },
+    {
+      "name": "Build",
+      "level": "beginner",
+      "keywords": [
+        "Gradle",
+        "CI/CD",
+        "Git",
+        "Openshift"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "level": "beginner",
+      "keywords": [
+        "Agile",
+        "Test Driven Development"
+      ]
+    },
+    {
+      "name": "IDE",
+      "level": "beginner",
+      "keywords": [
+        "VSCode",
+        "IntelliJ",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "beginner",
+      "keywords": [
+        "Postman",
+        "SOAP UI"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "flavor": "volunteer",
+      "organization": "ClimateMind",
+      "position": "Frontend Engineer",
+      "startDate": "2020-06",
+      "website": "https://climatemind.org/",
+      "summary": "Group of tech guys, concerned and alarmed about climate change and would like to provide a platform, a conversation started to help those who are undecided about climate change and its dreadful impacts",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "Security",
+      "url": "",
+      "title": "Cyberark Certified Trustee",
+      "date": "2019-09",
+      "awarder": "CyberArk",
+      "summary": ""
+    },
+    {
+      "flavor": "Achievement",
+      "title": "Distinguished Achiever",
+      "date": "2019-09",
+      "awarder": "HCL America Inc",
+      "summary": ""
+    },
+    {
+      "flavor": "Achievement",
+      "title": "Technical Excellence",
+      "date": "2013-06",
+      "awarder": "TATA Consultancy Services Ltd",
+      "summary": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Algorithms",
+      "summary": "",
+      "keywords": [
+        "Leetcode",
+        "Hackerrank",
+        "Codechef",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Photography",
+      "summary": "Avid chess player.",
+      "keywords": [
+        "Portraiture",
+        "Fashion",
+        "Landscape"
+      ]
+    },
+    {
+      "name": "Running",
+      "summary": "Avid chess player.",
+      "keywords": [
+        "5k",
+        "Morning runs",
+        "Trail runs"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil",
+      "level": "native"
+    },
+    {
+      "language": "English",
+      "level": "advanced"
+    }
+  ]
+}
