@@ -38,7 +38,7 @@
       "website": "https://www.hcltech.com/geo-presence/united-states",
       "position": "Technical Architect",
       "startDate": "2018-07",
-      "summary": "Leading a team of 3 senior programmers, planned, designed and implemented  software applications. Understand problem statements and business needs of the customer and design the best solutions",
+      "summary": "Leading 3 teams, responsible for plan, design of technical architecture and implementation of new insurance product. Understand problem statements and business needs of the customer and design the best solutions",
       "highlights": [
         "Created a web portal aimed at maintainig and monitoring vendor services.",
         "Successfully prototyped the **implementation of ELK stack** for vendor services",
@@ -88,7 +88,7 @@
       "keywords": [
         "JavaScript",
         "ReactJS",
-        "SpringMVC",
+        "Redux",
         "HTML5/CSS3"
       ]
     },
@@ -146,9 +146,12 @@
       "organization": "ClimateMind",
       "position": "Frontend Engineer",
       "startDate": "2020-06",
+      "endDate": "2020-10",
       "website": "https://climatemind.org/",
-      "summary": "Group of tech guys, concerned and alarmed about climate change and would like to provide a platform, a conversation started to help those who are undecided about climate change and its dreadful impacts",
-      "highlights": []
+      "summary": "Conerned and alarmed about climate change, volunteered to create a platform, a conversation starter to help those who are undecided about climate change and its dreadful impacts",
+      "highlights": [
+        "Created Materail UI base for React App"
+      ]
     }
   ],
   "awards": [
@@ -214,5 +217,9 @@
       "language": "English",
       "level": "advanced"
     }
-  ]
+  ],
+  "references": [{
+    "name": "Mimi Nguyen, Computer Software Professional",
+    "reference": "Thiyagarajan ( Mr T ) is a  skillful Java developer when  we worked together at OpenLink Financial as consultants for one of the most well-known energy trading and risk management ETRM company. In addition to his technical professionalism, his soft people skills has helped in situations wherein a technical person must be able to relate to non-technical ones in order to comprehend the described issue. T is a fast learner and able to translate business jargons into technical solutions."
+  }]
 }
