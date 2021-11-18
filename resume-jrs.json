@@ -2,7 +2,7 @@
   "basics": {
     "name": "Thiyagarajan Angappan",
     "label": "Technical Architect",
-    "summary": "**Full stack engineer** aimed at achieving the best solutions in the world of business problems. With over 13 years of experience in design and development of Web Applications, a **curious mind** towards researching and learning emerging technologies, I invest in **self growth** and guide others to reach their best",
+    "summary": "**Full stack engineer** aimed at achieving the best solutions in the world of business problems. With over 15 years of experience in design and development of Web Applications, a **curious mind** towards researching and learning emerging technologies, I invest in **self growth** and guide others to reach their best",
     "website": "https://thiyagarajan-angappan.github.io/",
     "phone": "1-210-862-6727",
     "email": "thiyagarajan.angappan@gmail.com",
@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "San Antonio",
+      "city": "The Colony",
       "countryCode": "US",
       "region": "TX"
     },
@@ -38,8 +38,9 @@
       "website": "https://www.hcltech.com/geo-presence/united-states",
       "position": "Technical Architect",
       "startDate": "2018-07",
-      "summary": "Leading 3 teams, responsible for plan, design of technical architecture and implementation of new insurance product. Understand problem statements and business needs of the customer and design the best solutions",
+      "summary": "Leading 3 teams, responsible for plan, design of technical architecture and implementation of new lifeinsurance product. Understand problem statements and business needs of the customer and design the best solutions",
       "highlights": [
+        "Trained recently onboarded remote developers and completed a **trouble free release** of introducing a new product to public in an older codebase",
         "Created a web portal aimed at maintainig and monitoring vendor services.",
         "Successfully prototyped the **implementation of ELK stack** for vendor services",
         "Designed enhanced SOAP UI portal for statistics and validation",
@@ -98,8 +99,6 @@
       "keywords": [
         "Java",
         "RESTful Services",
-        "NodeJS",
-        "JPA",
         "Hibernate",
         "MSSQL"
       ]
@@ -180,18 +179,18 @@
   ],
   "interests": [
     {
-      "name": "Algorithms",
+      "name": "Web Development / Algorithms",
       "summary": "",
       "keywords": [
         "Leetcode",
         "Hackerrank",
-        "Codechef",
-        "Javascript"
+        "Frontend Masters",
+        "overreacted.io"
       ]
     },
     {
       "name": "Photography",
-      "summary": "Avid chess player.",
+      "summary": "",
       "keywords": [
         "Portraiture",
         "Fashion",
@@ -200,7 +199,7 @@
     },
     {
       "name": "Running",
-      "summary": "Avid chess player.",
+      "summary": "",
       "keywords": [
         "5k",
         "Morning runs",
