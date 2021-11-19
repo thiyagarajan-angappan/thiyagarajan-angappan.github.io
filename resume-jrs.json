@@ -38,10 +38,10 @@
       "website": "https://www.hcltech.com/geo-presence/united-states",
       "position": "Technical Architect",
       "startDate": "2018-07",
-      "summary": "Leading 3 teams, responsible for plan, design of technical architecture and implementation of new lifeinsurance product. Understand problem statements and business needs of the customer and design the best solutions",
+      "summary": "Leading 3 teams, responsible for plan, design of technical architecture and implementation of new life insurance product. Understand problem statements and business needs of the customer and design the best solutions",
       "highlights": [
-        "Trained recently onboarded remote developers and completed a **trouble free release** of introducing a new product to public in an older codebase",
-        "Created a web portal aimed at maintainig and monitoring vendor services.",
+        "Trained recently on-boarded remote developers and completed a **trouble free release** of introducing a new product to public in an older codebase",
+        "Created a web portal aimed at maintaining and monitoring vendor services.",
         "Successfully prototyped the **implementation of ELK stack** for vendor services",
         "Designed enhanced SOAP UI portal for statistics and validation",
         "Averted missing deadline by **fixing a major bug** in dozer mapping during websphere migration effort"
@@ -66,7 +66,7 @@
       "position": "Assistant consultant",
       "startDate": "2006-11",
       "endDate": "2015-08",
-      "summary": "Worked with a team of 2 senior programmers onsite, 2 in mexico and 10 in India, translated business needs to technical tasks and helped replace  mainframe screens to web based applications",
+      "summary": "Lead a team of 2 senior programmers onsite, 2 in mexico and 10 in India, translated business needs to technical tasks and helped replace  mainframe screens to web based applications",
       "highlights": [
         "Mentored / trained team members in technologies used and processes followed in project delivery",
         "Improved time to market by 30% in the implementation of UX changes",
@@ -108,9 +108,17 @@
       "level": "beginner",
       "keywords": [
         "Gradle",
-        "CI/CD",
-        "Git",
-        "Openshift"
+        "Maven",
+        "Ant"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "beginner",
+      "keywords": [
+        "Github",
+        "Gitlab",
+        "CirclCI"
       ]
     },
     {
